@@ -15,14 +15,14 @@
 
 ---
 
-#### 🚽 I'm working on: this bathroom-finder app! 
+#### 🚽 Currently working on: this bathroom-finder app! 
 <p>
     <a href="https://strawberry-cookie-10667-13272cacdbe2.herokuapp.com/">
 <img src="https://github.com/essiero/github-read-me/assets/141077443/6c4dba8b-252d-4934-86bf-97d9d5a7261e" width="50px"/>
     </a>
 </p>
 
-#### 📚 I'm currently learning: 
+#### 📚 Currently learning: 
 <p float="left">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
     <img src="https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px" >
