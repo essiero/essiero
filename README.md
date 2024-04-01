@@ -9,28 +9,27 @@
 - 🌿 Plant nerd
 - 😻 Cat appreciator
 
+### Connect with Me!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />](https://www.linkedin.com/in/essie-schlotterbeck/)
+
 ---
 
-🚽 I’m currently working on:
+- 🚽 I’m currently working on:
 <p>
     <a href="https://strawberry-cookie-10667-13272cacdbe2.herokuapp.com/">
 <img src="https://github.com/essiero/github-read-me/assets/141077443/6c4dba8b-252d-4934-86bf-97d9d5a7261e" width="50px"/>
     </a>
 </p>
 
-📚 I'm currently learning: 
+- 📚 I'm currently learning: 
 <p float="left">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
     <img src="https://img.shields.io/badge/Amazon%20AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white" height="25px" >
     <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" height="25px" >
 </p>
 
-⚧ Pronouns: **they/them**
-
----
-### Connect with Me:
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" />](https://www.linkedin.com/in/essie-schlotterbeck/)
+- ⚧ Pronouns: **they/them**
 
 ---
 
