@@ -7,7 +7,7 @@
 - 💻 Full-stack software developer
 - 🪚 Woodworker
 - 🌿 Plant nerd
-- 😻 Cat appreciator
+- 😻 Definitely <a href="https://youtube.com/watch?v=KxlPGPupdd8">not a cat</a>
 
 ### Connect with Me
 
