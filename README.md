@@ -30,7 +30,7 @@
 </p>
 
 #### ⚧ Pronouns: 
-**they/them**
+**they/them** 🌈🏳️‍⚧️
 
 ---
 
