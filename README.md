@@ -17,7 +17,7 @@
 
 #### 🚽 Currently working on: this bathroom-finder app! 
 <p>
-    <a href="https://strawberry-cookie-10667-13272cacdbe2.herokuapp.com/">
+    <a href="https://tinkl-946316b8de2d.herokuapp.com/#/bathrooms">
 <img src="https://github.com/essiero/github-read-me/assets/141077443/6c4dba8b-252d-4934-86bf-97d9d5a7261e" width="50px"/>
     </a>
 </p>
