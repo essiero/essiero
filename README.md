@@ -68,8 +68,8 @@
 
 ---
 
-// <h2 align="center">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
-// <img src="https://github-readme-streak-stats.herokuapp.com/?user=essiero&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px" align="center"/>
+<!--- <img src="https://github-readme-streak-stats.herokuapp.com/?user=essiero&border_radius=true&count_private=true&theme=vision-friendly-dark&custom_title=Total%20Stats:" width="415px" height="200px" align="center"/> --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=essiero&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
